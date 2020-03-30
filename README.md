@@ -59,6 +59,7 @@ exemplo de requisição Json:
 
 ### PUT para alterar os Adcionais do Pedido
 LocalHost/api/PEDIDO/10, essa será uma requisição para alterar o pedido e incluir Opcionais  no pedido , para o mesmo basta adcionar os id's dos Opcionais
+
 {
   "id": 10,
   "opcional": 
