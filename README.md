@@ -1,7 +1,7 @@
 # PedidoAPI
 
-api de pedido para um sorveteria para ser utilizada como um frente de caixa
-esse api foi desenvolvida utilizando o Asp.Net Core 2.1 junto com o entity framewor com suporte para rodar a mesma em um container Linux.
+api de pedido para um sorveteria para ser utilizada como um frente de caixa, essa api foi desenvolvida utilizando o Asp.Net Core 2.1 junto com o entity framewor com suporte para docker e rodar a mesma em um container Linux.
+
 foi criado varias requisição para incluir, alterar, pesquisar(todas ou por ID) e excluir, todas essa requisição são para sabor e tamanhos
 ja para pedidos foi seguida outra  abordagem, onde foi desenvolvido outras requisições sendo elas:
 
